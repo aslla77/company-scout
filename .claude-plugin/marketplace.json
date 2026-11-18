@@ -1,0 +1,14 @@
+{
+  "name": "aslla-skills",
+  "owner": {
+    "name": "aslla77",
+    "url": "https://github.com/aslla77"
+  },
+  "plugins": [
+    {
+      "name": "company-scout",
+      "source": "./",
+      "description": "Research any company from public sources only, into a report where every factual claim carries a graded source and anything unverified stays labelled a hypothesis."
+    }
+  ]
+}
